@@ -1,0 +1,1 @@
+D:/progs/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/fuckclion.dir/serialordon.cpp.o CMakeFiles/fuckclion.dir/commonordon.cpp.o  -o fuckclion.exe -Wl,--out-implib,libfuckclion.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
